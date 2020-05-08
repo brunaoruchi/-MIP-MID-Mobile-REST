@@ -1,0 +1,39 @@
+{
+  "dadosMID":  [
+      { "id": 1, "data": "01-09-2016", 
+        "coletorEsporos": {"laminaColocada": "sim", "profissionalLeitura": "", "entidadeLeitura": "", "municipio": "", "dataLeitura": "", "resultadoLeitura": ""}, 
+        "inspeçãoFoliar": {"estadioPlantas": "", "resultadoInspeçao": "", "mediaEncontrada": ""}, 
+        "aplicaçaoFungicida": {"ferrugemAsiatica": "", "outrasDoenças": "", "dataAplicaçao": "07-09-2016", "observaçoes": ""}
+      },
+      { "id": 2, "data": "15-10-2016", 
+        "coletorEsporos": {"laminaColocada": "", "profissionalLeitura": "", "entidadeLeitura": "", "municipio": "", "dataLeitura": "", "resultadoLeitura": ""}, 
+        "inspeçãoFoliar": {"estadioPlantas": "", "resultadoInspeçao": "", "mediaEncontrada": ""}, 
+        "aplicaçaoFungicida": {"ferrugemAsiatica": "", "outrasDoenças": "", "dataAplicaçao": "", "observaçoes": ""}
+      },
+      { "id": 3, "data": "10-11-2016", 
+        "coletorEsporos": {"laminaColocada": "", "profissionalLeitura": "", "entidadeLeitura": "", "municipio": "", "dataLeitura": "", "resultadoLeitura": ""}, 
+        "inspeçãoFoliar": {"estadioPlantas": "", "resultadoInspeçao": "", "mediaEncontrada": ""}, 
+        "aplicacaoFungicida": {"ferrugemAsiatica": "", "outrasDoenças": "", "dataAplicacao": "", "observaçoes": ""}
+      }
+     ],  
+      "dadosMIP":  [
+        { "id": 1, "data": "01-09-2016", 
+          "gerais": {"dataAmostra": "", "diasAposEmergencia": "", "porcentagemDesfolha": "", "estadioCultura": ""}, 
+          "flutuacaoPragas": {"insetoPraga": "", "tamanho": "", "mediaEncontrada": ""}, 
+          "doencaPragas": {"insetoPraga": "", "mediaEncontrada": ""},
+          "inimigosPragas": {"inimigosNaturais": "", "mediaEncontrada": ""}
+        },
+        { "id": 2, "data": "15-10-2016", 
+          "gerais": {"dataAmostra": "", "diasAposEmergencia": "", "porcentagemDesfolha": "", "estadioCultura": ""}, 
+          "flutuacaoPragas": {"insetoPraga": "", "tamanho": "", "mediaEncontrada": ""}, 
+          "doencaPragas": {"insetoPraga": "", "mediaEncontrada": ""},
+          "inimigosPragas": {"inimigosNaturais": "", "mediaEncontrada": ""}
+      },
+        { "id": 3, "data": "10-11-2016", 
+          "gerais": {"dataAmostra": "", "diasAposEmergencia": "", "porcentagemDesfolha": "", "estadioCultura": ""}, 
+          "flutuacaoPragas": {"insetoPraga": "", "tamanho": "", "mediaEncontrada": ""}, 
+          "doencaPragas": {"insetoPraga": "", "mediaEncontrada": ""},
+          "inimigosPragas": {"inimigosNaturais": "", "mediaEncontrada": ""}
+        }
+      ]
+}
