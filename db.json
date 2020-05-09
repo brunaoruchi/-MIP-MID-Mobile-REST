@@ -1,39 +1,39 @@
 {
   "dadosMID":  [
       { "id": 1, "data": "01-09-2016", 
-        "coletorEsporos": {"laminaColocada": "sim", "profissionalLeitura": "", "entidadeLeitura": "", "municipio": "", "dataLeitura": "", "resultadoLeitura": ""}, 
-        "inspecaoFoliar": {"estadioPlantas": "", "resultadoInspecao": "", "mediaEncontrada": ""}, 
-        "aplicacaoFungicida": {"ferrugemAsiatica": "", "outrasDoencas": "", "dataAplicacao": "07-09-2016", "observacoes": ""}
+        "coletorEsporos": {"laminaColocada": "Sim", "profissionalLeitura": "Gustavo M. De Oliveira", "entidadeLeitura": "Emater - Pb", "municipio": "Pato Branco", "dataLeitura": "08-09-2016", "resultadoLeitura": "Sem Esporos de Ferrugem"}, 
+        "inspecaoFoliar": {"estadioPlantas": "V3", "resultadoInspecao": "Sem Lesões Visíveis", "mediaEncontrada": "0.1"}, 
+        "aplicacaoFungicida": {"ferrugemAsiatica": "Não", "outrasDoencas": "Não", "dataAplicacao": "07-09-2016", "observacoes": ""}
       },
       { "id": 2, "data": "15-10-2016", 
-        "coletorEsporos": {"laminaColocada": "sim", "profissionalLeitura": "", "entidadeLeitura": "", "municipio": "", "dataLeitura": "", "resultadoLeitura": ""}, 
-        "inspecaoFoliar": {"estadioPlantas": "", "resultadoInspecao": "", "mediaEncontrada": ""}, 
-        "aplicacaoFungicida": {"ferrugemAsiatica": "", "outrasDoencas": "", "dataAplicacao": "07-09-2016", "observacoes": ""}
+        "coletorEsporos": {"laminaColocada": "Sim", "profissionalLeitura": "Gustavo M. De Oliveira", "entidadeLeitura": "Emater - Pb", "municipio": "Pato Branco", "dataLeitura": "23-10-2016", "resultadoLeitura": "Sem Esporos de Ferrugem"}, 
+        "inspecaoFoliar": {"estadioPlantas": "R1", "resultadoInspecao": "Sem Lesões Visíveis", "mediaEncontrada": "0.1"}, 
+        "aplicacaoFungicida": {"ferrugemAsiatica": "Não", "outrasDoencas": "Não", "dataAplicacao": "07-09-2016", "observacoes": ""}
       },
       { "id": 3, "data": "10-11-2016", 
-        "coletorEsporos": {"laminaColocada": "sim", "profissionalLeitura": "", "entidadeLeitura": "", "municipio": "", "dataLeitura": "", "resultadoLeitura": ""}, 
-        "inspecaoFoliar": {"estadioPlantas": "", "resultadoInspecao": "", "mediaEncontrada": ""}, 
-        "aplicacaoFungicida": {"ferrugemAsiatica": "", "outrasDoencas": "", "dataAplicacao": "07-09-2016", "observacoes": ""}
+        "coletorEsporos": {"laminaColocada": "Sim", "profissionalLeitura": "Gustavo M. De Oliveira", "entidadeLeitura": "Emater - Pb", "municipio": "Pato Branco", "dataLeitura": "18-11-2016", "resultadoLeitura": "Sem Esporos de Ferrugem"}, 
+        "inspecaoFoliar": {"estadioPlantas": "R2", "resultadoInspecao": "Sem Lesões Visíveis", "mediaEncontrada": "0.1"}, 
+        "aplicacaoFungicida": {"ferrugemAsiatica": "Não", "outrasDoencas": "Não", "dataAplicacao": "07-09-2016", "observacoes": ""}
       }
      ],  
       "dadosMIP":  [
         { "id": 1, "data": "01-09-2016", 
-          "gerais": {"dataAmostra": "", "diasAposEmergencia": "", "porcentagemDesfolha": "", "estadioCultura": ""}, 
-          "flutuacaoPragas": {"insetoPraga": "", "tamanho": "", "mediaEncontrada": ""}, 
-          "doencaPragas": {"insetoPraga": "", "mediaEncontrada": ""},
-          "inimigosPragas": {"inimigosNaturais": "", "mediaEncontrada": ""}
+          "gerais": {"dataAmostra": "01-09-2016", "diasAposEmergencia": "30", "porcentagemDesfolha": "1", "estadioCultura": "V3"}, 
+          "flutuacaoPragas": {"insetoPraga": "Lagarta Da Soja", "tamanho": "> 15 cm", "mediaEncontrada": "0.1"}, 
+          "doencaPragas": {"insetoPraga": "Lagarta com Nomuraea rileyi (Doença Branca)", "mediaEncontrada": "0.1"},
+          "inimigosPragas": {"inimigosNaturais": "Calosoma Granulatum", "mediaEncontrada": "0.1"}
         },
         { "id": 2, "data": "15-10-2016", 
-          "gerais": {"dataAmostra": "", "diasAposEmergencia": "", "porcentagemDesfolha": "", "estadioCultura": ""}, 
-          "flutuacaoPragas": {"insetoPraga": "", "tamanho": "", "mediaEncontrada": ""}, 
-          "doencaPragas": {"insetoPraga": "", "mediaEncontrada": ""},
-          "inimigosPragas": {"inimigosNaturais": "", "mediaEncontrada": ""}
+          "gerais": {"dataAmostra": "15-10-2016", "diasAposEmergencia": "22", "porcentagemDesfolha": "0", "estadioCultura": "V3"}, 
+          "flutuacaoPragas": {"insetoPraga": "Falsa Medideira", "tamanho": "> 15 cm", "mediaEncontrada": "0.1"}, 
+          "doencaPragas": {"insetoPraga": "Lagarta com Nomuraea rileyi (Doença Branca)", "mediaEncontrada": "0.1"},
+          "inimigosPragas": {"inimigosNaturais": "Callida Sp.", "mediaEncontrada": "0.1"}
       },
         { "id": 3, "data": "10-11-2016", 
-          "gerais": {"dataAmostra": "", "diasAposEmergencia": "", "porcentagemDesfolha": "", "estadioCultura": ""}, 
-          "flutuacaoPragas": {"insetoPraga": "", "tamanho": "", "mediaEncontrada": ""}, 
-          "doencaPragas": {"insetoPraga": "", "mediaEncontrada": ""},
-          "inimigosPragas": {"inimigosNaturais": "", "mediaEncontrada": ""}
+          "gerais": {"dataAmostra": "10-11-2016", "diasAposEmergencia": "51", "porcentagemDesfolha": "3", "estadioCultura": "R1"}, 
+          "flutuacaoPragas": {"insetoPraga": "Lagarta Das Vagens", "tamanho": "> 15 cm", "mediaEncontrada": "0.1"}, 
+          "doencaPragas": {"insetoPraga": "Lagarta com Baculovírus (Doença Preta)", "mediaEncontrada": "0.1"},
+          "inimigosPragas": {"inimigosNaturais": "Callida Scutellaris", "mediaEncontrada": "0.1"}
         }
       ]
 }
